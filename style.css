@@ -1,0 +1,13 @@
+.my
+{
+	font-family: 'EB Garamond', serif;
+	font-size: 2em;
+	text-align: center;
+	margin-left: 50px;
+}
+
+hr
+{
+	border: 0.8px solid black;
+	box-shadow:2px 2px 2px black;
+}
